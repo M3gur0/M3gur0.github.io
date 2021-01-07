@@ -3,7 +3,7 @@ title: Légumes d'hiver au wok
 date: 2021-01-07 10:11:00 +0100
 categories: [Cuisine, Recette]
 tags: [brocoli, hiver, recette, cuisine]     # TAG names should always be lowercase
-image: /assets/img/cover/chou_rouge.jpg
+image: /assets/img/cover/brocoli.jpg
 ---
 
 ## Présentation
