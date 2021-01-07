@@ -9,7 +9,7 @@ image: /assets/img/cover/brocoli.jpg
 ## Présentation
 Le wok traîne dans un tiroir depuis longtemps... Il est temps de le ressortir et d'essayer de l'utiliser ! Voici donc une recette de légumes au wok aux saveurs d'Asie. Bien sûr, d'autres légumes peuvent être ajoutés en fonction des envies.
 
-Cette recette est issue du site [recette et bikini](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/wok-de-legumes-dautomne-a-la-sauce-soja.html), soumise par Violette.
+Cette recette est issue du site [Fourchette & Bikini](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/wok-de-legumes-dautomne-a-la-sauce-soja.html), soumise par Violette.
 
 Les quantités indiquées dont pour 4 personnes.
 
