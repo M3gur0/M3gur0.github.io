@@ -32,7 +32,7 @@ Les quantités indiquées sont pour 3 personnes.
 * ciboulette
 * sel pour salade
 
-### Préparation
+## Préparation
 Faire tremper les abricots secs dans de l'eau chaude. Les égoutter et les couper en dé.
 
 Mettre le riz à cuire dans un grand volume d'eau bouillante salée, et faire cuire le temps indiqué sur le paquet. L'égoutter.
