@@ -6,10 +6,10 @@ tags: [chou, hiver, recette, cuisine]     # TAG names should always be lowercase
 image: /assets/img/cover/chou_rouge.jpg
 ---
 
-## Recette de chou rouge pour faire passer l'hiver
+## Présentation
 Voici une recette simple, rapide et diététique pour un repas d'hiver. Le riz Camarguais peut être remplacé par du riz complet.
 
-Cette recette est inspirée par Rédigé par delphine et publié depuis Overblog. Pour consulter la recette originale, rendez-vous [ici](http://www.ohlagourmandedel.com/2020/03/salade-riz-camarguais-au-chou-rouge.html).
+Cette recette est inspirée par delphine et publiée depuis Overblog. Pour consulter la recette originale, rendez-vous [ici](http://www.ohlagourmandedel.com/2020/03/salade-riz-camarguais-au-chou-rouge.html).
 
 Les quantités indiquées sont pour 3 personnes.
 
@@ -45,4 +45,4 @@ Préparer la sauce en mélangeant tous les ingrédients, saler et poivrer.
 
 Dans un saladier, réunir le riz, le chou, la carotte, la pomme, le Comté et les morceaux d'abricots sec. 
 
-Dresser les assiettes en ajoutant la salade nappée de sauce l'œuf sur le dessus.
+Dresser les assiettes en ajoutant la salade nappée de sauce au centre et l'œuf sur le dessus.
