@@ -19,7 +19,7 @@ Les quantités indiquées sont pour 3 personnes.
 * 120g de riz camarguais
 * 1/2 chou rouge
 * 50g d'abricot sec coupé en dé
-* 3 oeufs
+* 3 œufs
 * 100g de Comté
 * 1 pomme
 * 1 carotte
