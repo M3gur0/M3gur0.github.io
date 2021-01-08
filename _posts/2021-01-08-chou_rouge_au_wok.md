@@ -7,7 +7,7 @@ image: /assets/img/cover/chou_rouge.jpg
 ---
 
 ## Présentation
-On continue la série chou rouge avec une recette sucrée-salée cuit à basse température. Et toujours au wok !
+On continue la série chou rouge avec une recette sucrée-salée. Le chou est cuit à basse température et toujours au wok !
 
 Cette recette est issue du site [Papilles et pupilles](https://www.papillesetpupilles.fr/2005/07/chou-rouge-au-wok.html) publiée par Anne Lataillade le 12 juillet 2005.
 
