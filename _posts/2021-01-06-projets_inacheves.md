@@ -1,8 +1,8 @@
 ---
-title: Projets
+title: Les projets inachevés
 date: 2021-01-06 09:34:00 +0100
 categories: [Blog, Projet]
-tags: [projet, todo]     # TAG names should always be lowercase
+tags: [projet, todo]
 image: /assets/img/cover/long_road.jpg
 ---
 

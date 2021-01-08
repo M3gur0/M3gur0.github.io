@@ -2,7 +2,7 @@
 title: Boeuf sauté aux brocolis
 date: 2021-01-07 13:47:00 +0100
 categories: [Cuisine, Recette]
-tags: [brocoli, hiver, recette, cuisine]     # TAG names should always be lowercase
+tags: [brocoli, hiver, recette, cuisine]
 image: /assets/img/cover/brocoli.jpg
 ---
 
