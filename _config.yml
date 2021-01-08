@@ -9,12 +9,11 @@
 # --------------------------
 title: M3gur0                          # the main title
 
-tagline: Mon journal de bord (dont tout le monde se fout).  # it will display as the sub-title
+tagline: Recettes de cuisine et divagations.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Mon journal de bord qui contient 
-  des recettes de cuisine, un état de mes journées,
-  des pensées, des photos...
+  Blog contenant recettes de cuisine, 
+  pensées, pense-bêtes, mémo techniques, photos...
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://m3gur0.github.io'
@@ -79,7 +78,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode: dark
 
 # boolean type, the global switch for ToC in posts.
 toc: true
