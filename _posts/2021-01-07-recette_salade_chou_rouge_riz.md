@@ -2,7 +2,7 @@
 title: Salade riz Camarguais au chou rouge
 date: 2021-01-07 09:20:00 +0100
 categories: [Cuisine, Recette]
-tags: [chou, hiver, recette, cuisine]
+tags: [chou rouge, hiver, recette, cuisine]
 image: /assets/img/cover/chou_rouge.jpg
 ---
 
